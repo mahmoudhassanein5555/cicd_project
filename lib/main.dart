@@ -15,9 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // This is the theme of your application.
         //
-        // TRY THIS: Try running your application with "flutter run". You'll see
-        // theeset the state, use hot
-        // restart instead.
+       
         //
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
