@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406176646001",
+    "project_id": "cicd-7625f",
+    "storage_bucket": "cicd-7625f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406176646001:android:4e857ad2948ec8e023acd0",
+        "android_client_info": {
+          "package_name": "com.example.cicd_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOfD6CQOQClvrIqOOAQTL7JtTTAxR71g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
